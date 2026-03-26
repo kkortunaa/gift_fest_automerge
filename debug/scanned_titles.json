@@ -1,0 +1,242 @@
+[
+  {
+    "row": 0,
+    "col": 0,
+    "item": "snoop_dogg_nft",
+    "display_name": "Snoop Dogg",
+    "raw_text": "Koni i .\n—— = :\nян\nPaeatme air rena о ла ре",
+    "text_item": "snoop_dogg_nft",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 0,
+    "col": 1,
+    "item": "jolly_chimp_nft",
+    "display_name": "Jolly Chimp",
+    "raw_text": "Koni i .\n—— = :\nян\nале во ot ate ork + A ре",
+    "text_item": "jolly_chimp_nft",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 0,
+    "col": 2,
+    "item": "heroic_helmet_nft",
+    "display_name": "Heroic Helmet",
+    "raw_text": "о м ©” м д\nHEROIC HELMET - д 200 Г ome",
+    "text_item": "heroic_helmet_nft",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 0,
+    "col": 3,
+    "item": null,
+    "display_name": null,
+    "raw_text": "ния\nь сие\" М аль ео а са лол ог Pere renarws 2 па ро me,",
+    "text_item": null,
+    "empty_hint": true,
+    "confidence": 0.824
+  },
+  {
+    "row": 0,
+    "col": 4,
+    "item": "cup",
+    "display_name": "Кубок",
+    "raw_text": "о м ©” м д\nКУБОК , $\nок. Г г",
+    "text_item": "cup",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 0,
+    "col": 5,
+    "item": "gift",
+    "display_name": "Подарок",
+    "raw_text": "——7 о ЧР м в\nЛВАЛААРАЫ. A па р",
+    "text_item": "gift",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 1,
+    "col": 0,
+    "item": "watering_can",
+    "display_name": "Лейка",
+    "raw_text": "о ыы © > хх\nЛЕЙКА",
+    "text_item": "watering_can",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 1,
+    "col": 1,
+    "item": "valentine",
+    "display_name": "Валентинка",
+    "raw_text": "——7 о ЧР м в\nBancesTuret &",
+    "text_item": "valentine",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 1,
+    "col": 2,
+    "item": "cake",
+    "display_name": "Торт",
+    "raw_text": "a awe — ^^ 7\nТОРТ . $ 29 р",
+    "text_item": "cake",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 1,
+    "col": 3,
+    "item": "love_candle_nft",
+    "display_name": "Love Candle",
+    "raw_text": "Koni № 5“ .\n—— ae р\nни\nя МЕР eae aeacteet rc .- ena -",
+    "text_item": "love_candle_nft",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 1,
+    "col": 4,
+    "item": "rocket",
+    "display_name": "Ракета",
+    "raw_text": "a awe — ^^ 7\nРАКЕТА » fy 06 р",
+    "text_item": "rocket",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 1,
+    "col": 5,
+    "item": "layers",
+    "display_name": "Коржи",
+    "raw_text": "о ыы © > хх\nКОРЖИ",
+    "text_item": "layers",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 2,
+    "col": 0,
+    "item": "bouquet",
+    "display_name": "Букет",
+    "raw_text": "——7 о ЧР м в\ncCevecr . A 2 _",
+    "text_item": "bouquet",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 2,
+    "col": 1,
+    "item": "bear",
+    "display_name": "Мишка",
+    "raw_text": "——7 о ЧР м в\nвам aA . № @ -",
+    "text_item": "bear",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 2,
+    "col": 2,
+    "item": null,
+    "display_name": null,
+    "raw_text": "ния\nь сие\" М аль ео а са лол ог Pere renarws 2 па ро me,",
+    "text_item": null,
+    "empty_hint": true,
+    "confidence": 0.824
+  },
+  {
+    "row": 2,
+    "col": 3,
+    "item": "bucket",
+    "display_name": "Ведерко",
+    "raw_text": "a awe — ^^ 7\nВЕДЕРКО",
+    "text_item": "bucket",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 2,
+    "col": 4,
+    "item": "whistle",
+    "display_name": "Свисток",
+    "raw_text": "о ыы ©“ > <\nсвисток\nen ^^",
+    "text_item": "whistle",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 2,
+    "col": 5,
+    "item": "pickaxe",
+    "display_name": "Кирка",
+    "raw_text": "о ыы ©“ > <\nКИРКА\nв. №",
+    "text_item": "pickaxe",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 3,
+    "col": 0,
+    "item": "earrings",
+    "display_name": "Серьги",
+    "raw_text": "——7 о ЧР м в\nFeO. rw",
+    "text_item": "earrings",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 3,
+    "col": 1,
+    "item": "seeds",
+    "display_name": "Семена",
+    "raw_text": "——7 о ЧР м в\nfo aviae а",
+    "text_item": "seeds",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 3,
+    "col": 2,
+    "item": "necklace",
+    "display_name": "Ожерелье",
+    "raw_text": "——7 о ЧР м в\nAwelocaAate",
+    "text_item": "necklace",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 3,
+    "col": 3,
+    "item": "crystal",
+    "display_name": "Кристалл",
+    "raw_text": "о ыы © > хх\nКРИСТАЛЛ",
+    "text_item": "crystal",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 3,
+    "col": 4,
+    "item": "glasses",
+    "display_name": "Бокалы",
+    "raw_text": "——7 о ЧР м в\nCrt & 42",
+    "text_item": "glasses",
+    "empty_hint": false,
+    "confidence": 0.99
+  },
+  {
+    "row": 3,
+    "col": 5,
+    "item": "thread",
+    "display_name": "Нитки",
+    "raw_text": "——7 о ЧР м в\nГУТ’ а \"77 |",
+    "text_item": "thread",
+    "empty_hint": false,
+    "confidence": 0.99
+  }
+]

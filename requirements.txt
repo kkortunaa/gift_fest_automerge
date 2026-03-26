@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-python>=4.10
+PyYAML>=6.0
+Pillow>=10.0
+dxcam>=0.0.5
+pytesseract>=0.3.10

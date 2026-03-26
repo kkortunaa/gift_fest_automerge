@@ -1,0 +1,1 @@
+"""Detector interfaces and adapters."""
